@@ -1,6 +1,14 @@
-{
-  "T_F": "T",
-  "Onvan": "hi",
-  "Matn": "how are you?"
-}
-سلام حیحی
+[
+  {
+    "Matn": "hi1"
+  },
+  {
+    "Matn": "hi2"
+  },
+  {
+    "Matn": "hi3"
+  },
+  {
+    "Matn": "hi4"
+  }
+]
